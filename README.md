@@ -2,7 +2,7 @@
 
 <br>Curso de Introdução à lógica de programação</br>
 
-#Criação de um algoritmo com os requisitos abaixo:
+#Criação de um algoritmo com os requisitos abaixo:#
 
 1)Perguntar qual conversão deve ser realizada (Celsius para Fahrenheit ou Fahrenheit para Celsius)
 
