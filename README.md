@@ -1,8 +1,10 @@
 # Pacetech - Semana 5 
 
-<br>Curso de Introdução à lógica de programação</br>
- 
 # Algoritmo - Upgrade Programa de Temperatura - Semana 5 
+
+<br>Curso de Introdução à lógica de programação</br>
+
+<br>Criação de um algoritmo com os requisitos abaixo:<br>
 
 1)Perguntar qual conversão deve ser realizada (Celsius para Fahrenheit ou Fahrenheit para Celsius)
 
