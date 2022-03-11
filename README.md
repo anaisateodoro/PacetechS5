@@ -1,12 +1,10 @@
 # Pacetech - Semana 5 
 
 <br>Curso de Introdução à lógica de programação</br>
-
- * Categoria do Curso: Iniciação a programação | 2022  
-
+ 
 # Algoritmo - Upgrade Programa de Temperatura - Semana 5 
 
-1) Perguntar qual conversão deve ser realizada (Celsius para Fahrenheit ou Fahrenheit para Celsius)
+1)Perguntar qual conversão deve ser realizada (Celsius para Fahrenheit ou Fahrenheit para Celsius)
 
 2)O usuário possui 4 temperaturas que ele registrou ao longo do dia e gostaria de armazenar no programa para posterior consulta. Para isso deve-se:
 (utilizar hora em que a temperatura foi medida)
