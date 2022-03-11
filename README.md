@@ -1,4 +1,4 @@
-# Pacetech - Algoritmo - Upgrade Programa de Temperatura - Semana 5 
+# Pacetech - Upgrade Programa de Temperatura - Semana 5 
 
 <br>Curso de Introdução à lógica de programação</br>
 
